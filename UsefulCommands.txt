@@ -1,0 +1,15 @@
+Commands
+List :: ls
+List Hidden:: ls -a
+Create file: touch filename.txt
+Copy File:: cp filenametocopy desiredfilename
+Move File:: mv filenametomove desiredlocation {current dir} 
+eg (mv ../abc.txt . ) to copy abc.txt from previous folder to current folderpath
+Rename:: mv filetorename newfilename
+Show Process:: ps
+Show Process with aux:: ps aux
+To Display free memory:: free -m
+To Display free storage:: df -h
+To generate SSH keys ::  ssh-keygen -t rsa -C "niteash333@gmail.com"
+TO display Public ssh keys :: cat ~/.ssh/id_rsa.pub
+Clear: ctrl+C cntl+L
