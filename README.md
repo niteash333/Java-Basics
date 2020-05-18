@@ -1,2 +1,2 @@
 # Java-Basics
-Java Session1
+Java Session day 2
