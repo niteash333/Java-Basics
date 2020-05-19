@@ -13,6 +13,8 @@ To Display free storage:: df -h
 To generate SSH keys ::  ssh-keygen -t rsa -C "niteash333@gmail.com"
 TO display Public ssh keys :: cat ~/.ssh/id_rsa.pub
 Clear: ctrl+C cntl+L
+List file contents: cat filename
+To print last x number of lines of a file:: tail -f3 filename
 
 
 GIT Commands:
@@ -22,3 +24,4 @@ To change the branch:: git checkout -b branchname
 To commit the changes:: git commit -m "message"
 To push to origin:: git push origin branchname
 to list the branches:: git branch
+
